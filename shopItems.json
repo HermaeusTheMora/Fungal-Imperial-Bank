@@ -1,0 +1,22 @@
+{
+  "tiers": {
+    "1": {
+      "name": "Tier 1 Colours",
+      "cost": 80,
+      "roles": [
+        { "name": "Red", "roleName": "Red", "emoji": "🔴" },
+        { "name": "Blue", "roleName": "Blue", "emoji": "🔵" },
+        { "name": "Green", "roleName": "Green", "emoji": "🟢" },
+        { "name": "Orange", "roleName": "Orange" }
+      ]
+    },
+    "2": {
+      "name": "Tier 2 Colours",
+      "cost": 200,
+      "roles": [
+        { "name": "Marigold", "roleName": "Marigold" },
+        { "name": "Rose", "roleName": "Rose"}
+      ]
+    }
+  }
+}
